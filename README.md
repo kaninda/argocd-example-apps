@@ -1,2 +1,2 @@
 # argocd-example-apps
-argicd test
+argocd example test
